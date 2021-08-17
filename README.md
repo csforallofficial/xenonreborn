@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px" background-color="black"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sunyul</h1>
 <h3 align="center">I'm a Competitive Programmer and a Full Stack Developer from India.</h3>
@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on **[Student's Hub]** - A joint platform for students round the world.
 
-- 🌱 I’m currently learning **System Design.**
+- 🌱 Stepping up with **System Design.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 Looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](http://sunyulhossen.unaux.com/)**
 
-- 📫 How to reach me **sunyulhossen@gmail.com**
+- 📫 You can reach me here **sunyulhossen@gmail.com**
 
 - ⚡ Fun fact **I love to sing and even go to the GYM very often.**
 
